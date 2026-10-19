@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "forecastsuite"]
+	path = forecastsuite
+	url = https://github.com/sparrow410/forecast_dashboard
+	subdir = forecastsuite
